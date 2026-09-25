@@ -1,0 +1,7 @@
+{
+  "name": "DroidClean OSINT - Mobile Storage Cleaner & Intelligence",
+  "description": "Android mobile storage cleaner with SQLite logging, OSINT file intelligence, APK threat scanner, and Cordova/Capacitor architecture workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
